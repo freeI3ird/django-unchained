@@ -5,8 +5,10 @@
 	`$ python3 -m venv ~/.virtualenvs/djangodev`
 2. Activating the virtual environment  
 
-	```$ source ~/.virtualenvs/djangodev/bin/activate```
+	`$ source ~/.virtualenvs/djangodev/bin/activate`
 	- Everytime we open a new terminal we have to activate the virtual environment.
+3. More on Virtual environment
+  - Link: https://virtualenvwrapper.readthedocs.io/en/latest/
 
 #### Project
 
